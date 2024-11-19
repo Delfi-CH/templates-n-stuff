@@ -1,0 +1,40 @@
+Version Naming:
+x.0, Major Version
+x.x, Minor Version
+x.xR, Grammatical Revision of a Version
+x.xB, Beta/Work in Progrss version
+
+
+Delfis Short General Purpose License, Version 1.0
+
+Copyright (c) 2024 L. Aristide Spitzer
+
+THESE FILES ARE PROVIDED "AS IS", WITHOUT ANY KIND OF WARRANTY OR GUARANTEES. THE ORIGINAL AUTHOR OR COPYRIGHT HOLDER IS NOT RESPONSIBLE FOR ANY DAMAGE ON HARDWARE AND SOFTWARE THAT THESE FILES MAY CAUSE
+
+This license allows you to:
+-freely download the files provided with this license.
+-freely modify and distribute the files privatly, as long as they come with the license.
+-freely modify and distribute the files commercialy, as long as a reference to the author or copyright holder is given.
+-distribute modified copies of the files with reference to the orignal files.
+
+This license forbids you to:
+-distribute the original or modified files with the intent of making money.
+-distribute the original or modified files without a reference to the original files, the auther or the copyright holder.
+
+
+
+Delfis Short General Purpose License, Version 1.0R
+
+Copyright (c) 2024, L.Aristide Spitzer. ALL RIGHTS RESERVED
+
+THESE FILES ARE PROVIDED "AS IS", WITHOUT ANY KIND OF WARRANTY OR GUARANTEES. THE ORIGINAL AUTHOR OR COPYRIGHT HOLDER IS NOT HELD RESPONSIBLE FOR ANY DAMAGE ON HARDWARE AND SOFTWARE THAT THESE FILES MAY CAUSE
+
+This license allows you to:
+-freely download the files provided with this license.
+-freely modify and distribute the files privately, as long as they come with the license.
+-freely modify and distribute the files commercially, as long as a reference to the author or copyright holder is given.
+-distribute modified copies of the files with reference to the original files.
+
+This license forbids you to:
+-distribute the original or modified files with the intent of making money.
+-distribute the original or modified files without a reference to the original files, the author or the copyright holder.
