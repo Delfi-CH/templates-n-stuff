@@ -12,3 +12,7 @@ These include:
 2. Delfis Short Software License (DSSL)
 
     The DSSL is a license specifically for software.
+
+## Scripts
+
+Scripts include .bat and .sh files for Automation 
